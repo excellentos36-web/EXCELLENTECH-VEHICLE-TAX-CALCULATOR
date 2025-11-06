@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Karnataka Vehicle Tax Estimator",
+  "description": "An application to estimate the lifetime tax for other state vehicles being registered in Karnataka. The calculation is based on vehicle type, cost, and age.",
+  "requestFramePermissions": []
+}
